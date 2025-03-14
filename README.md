@@ -13,3 +13,6 @@ A web app that lets users explore countries by viewing essential facts (geograph
 - **Factbook API:** Country profiles and facts.
 - **TripAdvisor API:** Nearby tourist spots and location details.
 - **Google Maps API:** Map rendering and location click events.
+
+#### ToMyself:
+Without passion/motivation, it would be a little hard to overcome difficulties, but it would be different if I had it. Before I started, I had a little bit of expectations for it. 
